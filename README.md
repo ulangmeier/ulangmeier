@@ -57,7 +57,7 @@ I lead the architectural evolution at **[Langmeier Software](https://www.langmei
 
 ## 📐 Engineering Principles for Investment Security
 
-- Value-Driven Architecture: Every line of code must **reduce debt** or *increase scalability*.
+- Value-Driven Architecture: Every line of code must **reduce debt** or **increase scalability**.
 - Sustainability: Using proven **enterprise standards** to ensure the next engineer can take over seamlessly.
 - KISS (Keep It Simple, Stupid): **Minimizing complexity** to reduce maintenance costs and operational risk.
 - **Security by Design**: In data protection, integrity and security are non-negotiable assets.
