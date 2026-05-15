@@ -47,8 +47,8 @@ I lead the architectural evolution at **[Langmeier Software](https://www.langmei
 
 | Project | Business Impact / Strategic Role | Primary Stack |
 |:--- |:--- |:--- |
-| **Langmeier Backup** | **Core Enterprise Asset:** Leading the modular rewrite in Rust to ensure top-tier performance and security. | Rust · C++ · Win32 |
-| **aBusiness Suite** | **Scalable SaaS Ecosystem:** Driving the architectural pivot to a high-speed, MVC-alternative framework. | PHP · SQLite |
+| [**Langmeier Backup**](https://www.langmeier-backup.com) | **Core Enterprise Asset:** Leading the modular rewrite in Rust to ensure top-tier performance and security. | Rust · C++ · Win32 |
+| [**aBusiness Suite**](https://www.abusiness.one) | **Scalable SaaS Ecosystem:** Driving the architectural pivot to a high-speed, MVC-alternative framework. | PHP · SQLite |
 | [php-baapi](https://github.com/ulangmeier/php-baapi) | **Integration Layer:** High-speed API routing for enterprise cloud connectivity. | PHP |
 | [LaOS7](https://github.com/ulangmeier/LaOS7) | **Heritage Code:** A bare-metal OS built in QuickBASIC (A childhood memory & proof of deep systems-level interest). | QuickBASIC |
 
