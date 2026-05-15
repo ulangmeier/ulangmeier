@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Urs Langmeier 👋</h1>
 
 <p align="center">
-  <em>Lead Software Architect · Langmeier Software · Strategic Systems Modernization & Data Integrity</em>
+  <em>Founder & Tech Leader · Langmeier Software · Strategic Systems Modernization & Data Integrity</em>
 </p>
 
 <p align="center">
